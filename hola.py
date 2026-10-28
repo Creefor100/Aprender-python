@@ -1,3 +1,2 @@
-print("hello world XD")
-print("probar la actualizacion de git")
-print("comprobar si funciona el guardado xd")
+usuario = input("Ingrese su nombre: ")
+print("Hola, " + usuario + "! Bienvenido a Python.")
